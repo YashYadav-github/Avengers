@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+}
+
+img{
+    height: 300px;
+    width: 350px;
+    margin-bottom: 5px;
+}
+
+#logo {
+    width:  800px;
+    height: 300px;
+}
+
+#gridGallery {
+  padding-bottom:70px;    
+}
+
+#myc {
+    height: 500px;
+    background-color: mediumvioletred;
+}
+.item {
+    padding-top: 100px;
+}
+#slider {
+    padding-bottom: 70px;
+}
+
+p {
+    color: skyblue;
+}
+#scarlet {
+    height :200px;
+}
+
+#panther {
+    height :200px;
+}
+
+#thor {
+    height :200px;
+}
+
+#Gamora {
+    height :200px;
+}
+
+#hulk {
+    height :200px;
+}
+
+#man {
+    height :200px;
+}
+
+#tharnos {
+    height :200px;
+}
